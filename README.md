@@ -1,7 +1,7 @@
 # OpsInsight AI
 ### Operational Analytics, Data Quality & Agentic Decision Support Platform
 
-OpsInsight AI is a solo portfolio project built to demonstrate the skills expected from a modern Data Analyst who works across operational analytics, data engineering, automation, testing, visualization, and AI-enabled workflows.
+OpsInsight AI is a portfolio project built to demonstrate the skills expected from a modern Data Analyst who works across operational analytics, data engineering, automation, testing, visualization, and AI-enabled workflows.
 
 ## Business problem
 
@@ -16,9 +16,6 @@ An operations team receives daily transaction/order data from multiple systems. 
 
 OpsInsight AI turns raw operational data into a validated analytical warehouse and produces data-quality findings, anomaly alerts, KPI summaries, and agent-generated recommendations.
 
-## JD skills demonstrated
-
-| Job requirement | Where it appears |
 |---|---|
 | SQL | Star schema, KPI queries, indexes, analytical views |
 | Python | Data generation, ETL, quality checks, analytics, agents |
